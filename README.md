@@ -1,5 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
+App link : https://rating-app-komal.netlify.app/
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
